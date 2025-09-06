@@ -19,4 +19,4 @@ It helps save costs by ensuring instances only run when needed.
 4. Verify automatic start/stop of instances.
 
 ## Author
-Project contribution under *AWS Projects !!* repository.
+Project contribution by Akanksha under *aws-projects* repository.
