@@ -24,3 +24,10 @@ Includes **least privilege IAM policies** for security best practices.
 ➡️ [View Project 02](./Project-02-Updated-Scheduler)
 
 ---
+### Project 03 – Static Website Hosting on S3 + CloudFront
+In this project, we host a simple static website using **Amazon S3** and deliver it securely and efficiently using **Amazon CloudFront**.  
+This project is fully beginner-friendly and focuses only on AWS Free Tier services.
+
+---
+
+
