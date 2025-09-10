@@ -18,12 +18,18 @@ Helps reduce costs by ensuring instances run only when needed.
 
 ---
 
-### [Project 02 – Automated Scheduled EC2 Start/Stop with Email Notifications](./Project-02-Updated-Scheduler)
+### [Project 02 A – Automated Scheduled EC2 Start/Stop with Email Notifications](./Project-02-Updated-Scheduler)
 Extends Project 01 by integrating **Amazon SNS** to send email notifications every time the EC2 instance is started or stopped.  
 Includes **least privilege IAM policies** for security best practices.  
 ➡️ [View Project 02](./Project-02-Updated-Scheduler)
 
 ---
+
+### Project 02 B – Automated Scheduled EC2 Start/Stop with Amazon API Gateway
+Extends Project 01 by integrating **Amazon API Gateway** to provide dedicated start/stop endpoints for the EC2 instance, and scheduling them via **EventBridge** for automated control with email notifications through **SNS**.
+
+---
+
 ### Project 03 – Static Website Hosting on S3 + CloudFront
 In this project, we host a simple static website using **Amazon S3** and deliver it securely and efficiently using **Amazon CloudFront**.  
 This project is fully beginner-friendly and focuses only on AWS Free Tier services.
