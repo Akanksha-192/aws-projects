@@ -36,5 +36,13 @@ This project is fully beginner-friendly and focuses only on AWS Free Tier servic
 
 ---
 
-### Project 04 - VPC Peering!
+### Project 04 - Secure Two-Tier Architecture on AWS Using a Bastion Host 
+This project demonstrates the deployment of a secure two-tier architecture on AWS, where a bastion host serves as the entry point for administrative access. Great for understanding **Amazon VPC, Subnets and Security Groups**.
+
+---
+
+### Project 05 - VPC Peering!
 In this project, we established secure cross-region connectivity by setting up **VPC Peering** between Mumbai (ap-south-1) and Hyderabad (ap-south-2), and verified it using EC2 instances
+
+---
+
