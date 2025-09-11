@@ -36,4 +36,5 @@ This project is fully beginner-friendly and focuses only on AWS Free Tier servic
 
 ---
 
-
+### Project 04 - VPC Peering!
+In this project, we established secure cross-region connectivity by setting up **VPC Peering** between Mumbai (ap-south-1) and Hyderabad (ap-south-2), and verified it using EC2 instances
