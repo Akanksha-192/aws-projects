@@ -6,6 +6,12 @@ This setup allows private communication between resources in different regions w
 
 ---
 
+## 📊 Architecture Diagram
+
+![VPC Peering Architecture](./VPC-Peering-Architecture-Diagram.png)
+
+---
+
 ## 📌 Steps Implemented
 **1. Created VPCs and Subnets -**
 Mumbai VPC → 10.0.0.0/16 with subnet 10.0.1.0/24
