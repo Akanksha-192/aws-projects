@@ -41,8 +41,11 @@ This project demonstrates the deployment of a secure two-tier architecture on AW
 
 ---
 
-### Project 05 - VPC Peering!
-In this project, we established secure cross-region connectivity by setting up **VPC Peering** between Mumbai (ap-south-1) and Hyderabad (ap-south-2), and verified it using EC2 instances
+### [Project 05 - VPC Peering!](./Project-05-VPC-Peering)
+In this project, we established secure cross-region connectivity by setting up **VPC Peering** between Mumbai (ap-south-1) and Hyderabad (ap-south-2), and verified it using EC2 instances.
+➡️ [View Project 05](./Project-05-VPC-Peering)
 
 ---
+
+
 
