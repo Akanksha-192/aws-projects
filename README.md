@@ -25,8 +25,9 @@ Includes **least privilege IAM policies** for security best practices.
 
 ---
 
-### Project 02 B – Automated Scheduled EC2 Start/Stop with Amazon API Gateway
-Extends Project 01 by integrating **Amazon API Gateway** to provide dedicated start/stop endpoints for the EC2 instance, and scheduling them via **EventBridge** for automated control with email notifications through **SNS**.
+### [Project 02 B – Automated Scheduled EC2 Start/Stop with Amazon API Gateway](./Project-02B-Updated-Scheduler)
+Extends Project 01 by integrating **Amazon API Gateway** to provide dedicated start/stop endpoints for the EC2 instance, and scheduling them via **EventBridge** for automated control with email notifications through **SNS**. 
+➡️ [View Project 02B](./Project-02B-Updated-Scheduler)
 
 ---
 
@@ -36,8 +37,9 @@ This project is fully beginner-friendly and focuses only on AWS Free Tier servic
 
 ---
 
-### Project 04 - Secure Two-Tier Architecture on AWS Using a Bastion Host 
-This project demonstrates the deployment of a secure two-tier architecture on AWS, where a bastion host serves as the entry point for administrative access. Great for understanding **Amazon VPC, Subnets and Security Groups**.
+### [Project 04 - Secure Two-Tier Architecture on AWS Using a Bastion Host](./Project-04-2Tier-Arch) 
+This project demonstrates the deployment of a secure two-tier architecture on AWS, where a bastion host serves as the entry point for administrative access. Great for understanding **Amazon VPC, Subnets and Security Groups**. 
+➡️ [View Project 04](./Project-04-2Tier-Arch)
 
 ---
 
