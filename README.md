@@ -6,7 +6,9 @@
 ## 📑 Table of Contents
 - [Project 01 – Automated Scheduled EC2 Start/Stop](./project-01-ec2-scheduler)
 - [Project 02 – Automated Scheduled EC2 Start/Stop with Email Notifications](./Project-02-Updated-Scheduler)
-
+- [Project 02 B – Automated Scheduled EC2 Start/Stop with Amazon API Gateway](./Project-02B-Updated-Scheduler)
+- [Project 04 - Secure Two-Tier Architecture on AWS Using a Bastion Host](./Project-04-2Tier-Arch)
+- [Project 05 - VPC Peering!](./Project-05-VPC-Peering)
 ---
 
 ## 📂 Projects
