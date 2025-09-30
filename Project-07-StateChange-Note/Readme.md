@@ -1,12 +1,19 @@
 # EC2 State Change Notifications with SNS & EventBridge
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project sets up **automatic email notifications** whenever an EC2 instance changes state (e.g., **running**, **stopped**, or **terminated**). Using **Amazon EventBridge** to detect state-change events and **Amazon SNS** for email delivery, this solution ensures you’re always informed about critical changes — whether they were triggered manually, by automation, or due to unexpected issues.
 
 ---
 
-## ⚙️ Step-by-Step Implementation
+### 🏗️ Architecture Diagram
+
+![EC2 State Change Notifications Architecture](./Project-07.png)
+
+
+---
+
+### ⚙️ Step-by-Step Implementation
 
 
 1. **SNS Setup**
@@ -31,7 +38,7 @@ This project sets up **automatic email notifications** whenever an EC2 instance 
 
 ---
 
-## 🧹 Clean-Up Steps
+### 🧹 **Clean-Up Steps**
 
 * Delete the EventBridge rule.
 * Unsubscribe and delete the SNS topic.
@@ -39,7 +46,7 @@ This project sets up **automatic email notifications** whenever an EC2 instance 
 
 ---
 
-## 🔑 Key Learnings
+### 🔑 **Key Learnings**
 
 * **EventBridge** captures lifecycle events (like EC2 state changes).
 * **SNS** provides a quick way to send alerts via email.
@@ -47,3 +54,6 @@ This project sets up **automatic email notifications** whenever an EC2 instance 
 * Together, they provide visibility into infrastructure changes in real time.
 
 ---
+
+### ✏️ **Author**
+Project contribution by Akanksha under ***aws projects*** repository.
