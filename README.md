@@ -9,6 +9,8 @@
 - [Project 02 B – Automated Scheduled EC2 Start/Stop with Amazon API Gateway](./Project-02B-Updated-Scheduler)
 - [Project 04 - Secure Two-Tier Architecture on AWS Using a Bastion Host](./Project-04-2Tier-Arch)
 - [Project 05 - VPC Peering!](./Project-05-VPC-Peering)
+- [Project 07 - EC2 State Change Notifications ](./Project-07-StateChange-Note)
+- [Project 08 - S3 Presigned URl with Email notifications](./Project-08-S3-Presigned-URL)
 ---
 
 ## 📂 Projects
@@ -51,5 +53,12 @@ In this project, we established secure cross-region connectivity by setting up *
 
 ---
 
+### [Project 07 - EC2 State Change Notifications ](./Project-07-StateChange-Note)
+This project sets up **automatic email notifications** whenever an EC2 instance changes state (e.g., **running**, **stopped**, or **terminated**). Using **Amazon EventBridge** to detect state-change events and **Amazon SNS** for email delivery.
+➡️ [View Project 07](./Project-07-StateChange-Note)
 
+---
 
+### [Project 08 - S3 Presigned URl with Email notifications](./Project-08-S3-Presigned-URL)
+Enable users to securely upload files to an **S3 bucket** using pre-signed URLs, with **SNS notifications** for upload events.
+➡️ [View Project 08](./Project-08-S3-Presigned-URL)
