@@ -6,6 +6,12 @@ Each file upload automatically triggers an SNS notification (e.g., email alert) 
 
 ---
 
+### 🏗️ Architecture Diagram
+
+![S3 Presigned URL Upload Architecture](./Project-08.png)
+
+---
+
 ## ⚙️ Step-by-Step Implementation
 
 1. Create an S3 Bucket
@@ -49,4 +55,5 @@ Each file upload automatically triggers an SNS notification (e.g., email alert) 
 * Delete the bucket – Once empty, choose the bucket → Delete bucket.
 * Delete SNS topic – Open Amazon SNS → Topics → select your topic → Delete.
 * Remove email subscriptions – In SNS, delete any active email subscriptions.
+
 
